@@ -1,0 +1,2 @@
+# unofficial-superanimes
+This app has been made by a fan, don't want to be an official app, only a new way to access superanimes... Este app foi feito por um fã, não foi feito pra ser um app oficial, apenas uma nova forma de acessar o superanimes Não sei porque comecei em inglês mas... Recomendo usar o player new omega e deixar o "girar tela" ligado. O app não contempla notificações push (ainda), e está apenas nascendo, é isso.
