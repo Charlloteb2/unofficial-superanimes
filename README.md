@@ -5,7 +5,7 @@ This app has been made by a fan, don't want to be an official app, only a new wa
 
 para criar conta, é recomendado abrir o site pelo computador, ou pelo navegador no celular
 
-para acessar as configurações basta abrir a página "Suporte" dentro do próprio site
+para acessar as configurações do aplicativo basta abrir a página "Suporte" dentro do próprio site no app
 
 # anúncios
 
