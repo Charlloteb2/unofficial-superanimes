@@ -1,3 +1,16 @@
+# Atenção Atenção
+
+Os devs do site oficial de alguma forma restringiram o acesso ao site para usuários que conseguem fazer loguin
+O porém é que segundo eles "O site é escrito para o Chrome"
+Ou seja, vários usuários reclamando que não conseguem abrir o site na tv, não conseguem abrir com outro navegador
+e sobra pra gente que não tá usando o Chrome chorar e esperar que talvez eles voltem atrás liberando outros navegadores?
+Vou ver o que consigo fazer pra tentar contornar isso, porém acho difícil
+Até lá sugiro que usem o Chrome pra acessar o site, ou mudem pra outro site de animes...
+Boa sorte minna! T_T
+
+
+
+
 # unofficial-superanimes
 This app has been made by a fan, don't want to be an official app, only a new way to access superanimes... Este app foi feito por um fã, não foi feito pra ser um app oficial, apenas uma nova forma de acessar o superanimes Não sei porque comecei em inglês mas... Recomendo usar o player new omega e deixar o "girar tela" ligado. O app não contempla notificações push (ainda), e está apenas nascendo, é isso.
 
